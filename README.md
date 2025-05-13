@@ -108,11 +108,12 @@ You can deploy this app easily on platforms like:
 
 ## 👤 Author
 
-🔗 **Mohammed MAATAOUI Belabbes** - [momaataoui](https://github.com/momaataoui)
-🔗 **Zaki Hamza** - [](https://github.com/)
+*   🔗 **Mohammed MAATAOUI Belabbes** - [momaataoui](https://github.com/momaataoui)
+*   🔗 **Zaki Hamza** - [hamzazaki](https://github.com/)
+
 
 ## Acknowledgements 🙏
 
-**Pr. AITBACHIR Ilhame** - Pedagogical Supervisor
+*   🔗**Pr. AITBACHIR Ilhame** - Pedagogical Supervisor
 
 ---
